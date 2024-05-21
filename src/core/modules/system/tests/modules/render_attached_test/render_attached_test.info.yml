@@ -1,0 +1,12 @@
+name: 'Rendering #attached test'
+type: module
+description: 'Support module for HtmlResponseAttachmentsTest.'
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:block
+
+# Information added by Drupal.org packaging script on 2024-05-17
+version: '11.0.0-beta1'
+project: 'drupal'
+datestamp: 1715953413

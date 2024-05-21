@@ -1,0 +1,11 @@
+name: 'Configuration test languages'
+type: module
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:config_test
+
+# Information added by Drupal.org packaging script on 2024-05-17
+version: '11.0.0-beta1'
+project: 'drupal'
+datestamp: 1715953413

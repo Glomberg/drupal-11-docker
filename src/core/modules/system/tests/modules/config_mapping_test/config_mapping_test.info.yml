@@ -1,0 +1,13 @@
+name: Config mapping test
+type: module
+description: 'Test configuration mapping.'
+dependencies:
+  - drupal:node
+  - drupal:comment
+package: Core
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2024-05-17
+version: '11.0.0-beta1'
+project: 'drupal'
+datestamp: 1715953413

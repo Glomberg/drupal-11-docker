@@ -1,0 +1,10 @@
+name: 'JS Errors test'
+description: 'Provides a JavaScript error that can be used for tests'
+type: module
+package: Testing
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2024-05-17
+version: '11.0.0-beta1'
+project: 'drupal'
+datestamp: 1715953413
